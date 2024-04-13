@@ -392,6 +392,11 @@ img[src="wp-content/uploads/2021/01/dark-logo.png"] {
 	opacity: 0;
 	width: 120px;
 }
+
+img[src="../wp-content/uploads/2021/01/dark-logo.png"] {
+	width: 180px;
+}
+
 .light_bg .hamburger_holder span, .light_bg .header .contacts, .light_bg .header .social-menu li a, .light_bg .page_title p, .light_bg .footer, .light_bg .section_number {
 	color: #000;
 }
