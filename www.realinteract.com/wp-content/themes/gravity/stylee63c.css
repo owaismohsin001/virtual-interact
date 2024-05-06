@@ -384,8 +384,9 @@ h1, h2, h3, h4, h5, h6 {
 .logo_for_dark_bg {
 	position: absolute;
 	width: 190px;
-	scale: 1.2;
+	scale: 1.24;
 	margin-top: -10px;
+	background-color: white;
     /* margin-left: -18px; */
 }
 img[src="wp-content/uploads/2021/01/dark-logo.png"] {
